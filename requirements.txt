@@ -1,0 +1,4 @@
+gtrending==0.3.6
+GitPython==3.1.27
+pip-check-reqs==2.3.2
+prettytable==3.3.0
