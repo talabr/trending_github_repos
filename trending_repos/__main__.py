@@ -1,4 +1,4 @@
-from trending_repos.cli import run
+from cli import run
 
 
 def main():
